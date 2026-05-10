@@ -73,13 +73,13 @@ As a Senior Full Stack Engineer on this product, I:
 
 > Screenshots showcase the public-facing portal. Internal admin views are protected for client privacy.
 
-![Homepage](screenshots/01-homepage.png)
+![Homepage](rcm-crm/Screenshot_1.png)
 *Landing page — atlantisrcm.com*
 
 ![Customer Portal](https://www.atlantisrcm.com/public/frontend/assets/img/index/dashboard.jpg)
 *Customer portal login — clients access their claims and payments*
 
-![Dashboard](screenshots/03-dashboard.png)
+![Dashboard](rcm-crm/Screenshot_2.png)
 *RCM dashboard — claim status, revenue overview, alerts*
 
 ---
